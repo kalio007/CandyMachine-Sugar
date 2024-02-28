@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"Kalio-PC","pid":3708,"time":"2024-02-28T23:37:28.2128501Z","target":"sugar","line":123,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"Cache file 'cache.json' not found. Run `sugar upload` to create it or provide it with the --cache option.","level":50,"hostname":"Kalio-PC","pid":3708,"time":"2024-02-28T23:37:28.2160686Z","target":"sugar_cli::cache","line":157,"file":"src\\cache.rs"}

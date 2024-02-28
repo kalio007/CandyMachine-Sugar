@@ -1,0 +1,7 @@
+Wrote new keypair to C:\Users\Hp\sugar\Owner.json
+===========================================================================
+pubkey: FBgQ8pNdAbQQfauDqysQRmtzKsb1pi2EQpepB7igNGd6
+
+Wrote new keypair to C:\Users\Hp\sugar\Creator.json
+==========================================================================
+pubkey: 9sqfPdZ8tJR2gr6fic13aQoUsBgkZUfmTqVBY4gm4ct7
